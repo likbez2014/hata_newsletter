@@ -97,7 +97,6 @@ h1 {
 .grey td {
     padding-left: 30px;
     padding-top: 30px;
-    padding-right: 30px;
     padding-bottom: 30px;
     width: 200px;
     height: 195px;
@@ -122,4 +121,40 @@ h1 {
     color: #666666;
     font-family: "Arial";
     text-align: center;
+}
+
+.name-house {
+    padding-top: 25px;
+    padding-right: 25px;
+    width: 260px;
+    vertical-align: top;
+}
+
+.price h3 {
+    margin: 0;
+    padding-bottom: 10px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1f1f56;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+.price a {
+    text-decoration: none;
+}
+
+.price p {
+    /* padding-bottom: 15px; */
+    font-size: 13px;
+    line-height: 19px;
+    color: #9999a6;
+    font-family: "Arial";
+}
+
+.view-house {
+    padding-left: 30px;
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-bottom: 25px;
 }
