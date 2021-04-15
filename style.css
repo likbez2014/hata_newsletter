@@ -124,7 +124,7 @@ h1 {
 }
 
 .name-house {
-    padding-top: 25px;
+    padding-top: 15px;
     padding-right: 25px;
     width: 260px;
     vertical-align: top;
@@ -140,6 +140,7 @@ h1 {
     font-family: "Arial";
 }
 
+
 .price a {
     text-decoration: none;
 }
@@ -154,7 +155,7 @@ h1 {
 
 .view-house {
     padding-left: 30px;
-    padding-top: 25px;
+    padding-top: 20px;
     padding-right: 20px;
-    padding-bottom: 25px;
+    padding-bottom: 20px;
 }
