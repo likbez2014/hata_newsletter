@@ -53,6 +53,7 @@ h1 {
 
 .main-img {
     padding-bottom: 15px;
+    width: 100%;
 }
 
 .main-text {
@@ -158,4 +159,39 @@ h1 {
     padding-top: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
+}
+
+.discount {
+    background-image: url('https://raw.githubusercontent.com/likbez2014/hata_newsletter/master/img/container.jpg'); 
+} 
+
+.discount td {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    text-align: center;
+}
+
+.discount h6 {
+    margin: 0;
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+.discount p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 13px;
+    line-height: 20px;
+    color: #ffffff;
+    font-family: "Arial";
+}
+
+.discount a {
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #08081a;
 }
