@@ -162,7 +162,10 @@ h1 {
 }
 
 .discount {
-    background-image: url('https://raw.githubusercontent.com/likbez2014/hata_newsletter/master/img/container.jpg'); 
+    background-color: #fd8300;
+    background-image: url("https://raw.githubusercontent.com/likbez2014/hata_newsletter/master/img/container.jpg"); 
+    background-repeat: repeat;
+    background-position: center;
 } 
 
 .discount td {
